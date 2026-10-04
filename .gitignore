@@ -1,0 +1,22 @@
+# Local OS files
+.DS_Store
+._*
+Thumbs.db
+
+# Local editor/temporary files
+*.bak
+*.tmp
+*.swp
+*~
+__pycache__/
+*.py[cod]
+.venv/
+
+# Personal RPG Maker / EasyRPG saves
+[Ss]ave*.lsd
+[Ss]ave*.easyrpg
+
+# Local packages and generated build output
+*.zip
+build/
+dist/
